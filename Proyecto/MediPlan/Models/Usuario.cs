@@ -10,24 +10,24 @@ namespace MediPlan.Models
     public abstract class Usuario:IComparable
     {
         protected int id {  get; set; }
-        protected string nombre { get; set; }
-        protected string email { get; set; }
+        public string Nombre { get; set; }
+        public string Email { get; set; }
 
         public Usuario(int id, string nombre, string email)
         {
             this.id = id;
-            this.nombre = nombre;
-            this.email = email;
+            this.Nombre = nombre;
+            this.Email = email;
         }
         public bool LogIn()
         {
-            Console.WriteLine($"Usuario {this.nombre} ha iniciado sesión.");
+            Console.WriteLine($"Usuario {this.Nombre} ha iniciado sesión.");
             return true;
         }
 
         public void LogOut()
         {
-            Console.WriteLine($"Usuario {this.nombre} ha cerrado sesión.");
+            Console.WriteLine($"Usuario {this.Nombre} ha cerrado sesión.");
         }
 
         public int CompareTo(object obj)
