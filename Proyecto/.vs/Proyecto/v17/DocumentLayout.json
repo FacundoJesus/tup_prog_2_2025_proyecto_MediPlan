@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Facundo\\source\\repos\\tup_prog_2_2025_proyecto_MediPlan\\Proyecto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9D4459-B9B8-4A6D-A659-125E5AFFBA97}|MediPlan\\MediPlan.csproj|c:\\users\\facundo\\source\\repos\\tup_prog_2_2025_proyecto_mediplan\\proyecto\\mediplan\\docs\\mediplan.uml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{BF9D4459-B9B8-4A6D-A659-125E5AFFBA97}|MediPlan\\MediPlan.csproj|solutionrelative:mediplan\\docs\\mediplan.uml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MediPlan.uml",
+              "DocumentMoniker": "C:\\Users\\Facundo\\source\\repos\\tup_prog_2_2025_proyecto_MediPlan\\Proyecto\\MediPlan\\Docs\\MediPlan.uml",
+              "RelativeDocumentMoniker": "MediPlan\\Docs\\MediPlan.uml",
+              "ToolTip": "C:\\Users\\Facundo\\source\\repos\\tup_prog_2_2025_proyecto_MediPlan\\Proyecto\\MediPlan\\Docs\\MediPlan.uml",
+              "RelativeToolTip": "MediPlan\\Docs\\MediPlan.uml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGlSURBVDhPrZK9axRRFMV/M4m44GYVUfwqRKOFWIl2FqYTC4u8V4h/hFhoIYYUNpYKNkJYwUKIkMyKEjSKoBgWwSSgksSJRVYTNcmibD7MDkvcOVazOG9XTOEPXnEP995z4D4PB2OMXK0VhULBQ2ruNcboXxhjlBi1uwsSrLWuRBAEqbpl2iSBm8StE813F/yJtbbxNsy1iye1dHcg5fI3WiY4dzxkOd/P\u002BqeFhrbhJPp2R3qCSsfOqNybVxzVpDhOOboJPC32iXoJ/FVYC\u002BHzCF8unSL\u002B0UFm31aqB/czODHJ2C6xnq03zIIgwFpLO1EEMzchsw1ye2HHAb7X2/hQzTA6IabGv1LZ3sHQ8A127s6Bc2IPQLO3xfRlaFtjfqGLC1dOMzZbwmcTZ8\u002BfYC4awvPTJ08SeImg14e1Mh/x4OlDwlKW4Vd9yK8x\u002BOYqh47uSQ0nNBaoVlZcPMKjx7eYnukmu6XG5MdRXowP0Nm1zObcL3c2jX6\u002B1cj1Ht3riRQWI71/XtX93oq6O/MqPptq/q4uq\u002BUlhcWoqfHdy4oW51aa9P/KbzXwQLiNAx/8AAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-10-26T20:40:42.644Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
