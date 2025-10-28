@@ -1224,7 +1224,7 @@
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="Left" type="integer">1340</XPD:ATTR>
-<XPD:ATTR name="Top" type="integer">40</XPD:ATTR>
+<XPD:ATTR name="Top" type="integer">36</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">219</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">95</XPD:ATTR>
 <XPD:REF name="Model">A5VCIIAnNUO9EH0mh7GnpAAA</XPD:REF>
@@ -1378,7 +1378,7 @@
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="LineStyle" type="LineStyleKind">lsRectilinear</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">1449,172;1449,134</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">1449,172;1449,130</XPD:ATTR>
 <XPD:REF name="Model">aFUjIYilAk6oBAZlWVrfKwAA</XPD:REF>
 <XPD:REF name="Head">1fyTZICZfkWi0hyywk2lRAAA</XPD:REF>
 <XPD:REF name="Tail">0m+C9sQ3jkuppyc6ZG6OAgAA</XPD:REF>
@@ -4149,6 +4149,11 @@
 <XPD:OBJ name="Operations[1]" type="UMLOperation" guid="gleZmbQ3t0ajFry3Fbs5CwAA">
 <XPD:ATTR name="Name" type="string">CorregirErrores</XPD:ATTR>
 <XPD:REF name="Owner">A5VCIIAnNUO9EH0mh7GnpAAA</XPD:REF>
+<XPD:ATTR name="#Parameters" type="integer">1</XPD:ATTR>
+<XPD:OBJ name="Parameters[0]" type="UMLParameter" guid="b3hnS/+UIUG/QibmkhhIHwAA">
+<XPD:ATTR name="Name" type="string">descripcion</XPD:ATTR>
+<XPD:REF name="BehavioralFeature">gleZmbQ3t0ajFry3Fbs5CwAA</XPD:REF>
+</XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="Operations[2]" type="UMLOperation" guid="oNPORI51qEG/8GQ5d9+GygAA">
 <XPD:ATTR name="Name" type="string">NuevaFuncionalidad</XPD:ATTR>
