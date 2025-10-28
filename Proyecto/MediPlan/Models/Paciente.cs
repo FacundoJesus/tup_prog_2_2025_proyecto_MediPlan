@@ -8,6 +8,8 @@ namespace MediPlan.Models
 {
     public class Paciente:Usuario
     {
+        private HistorialMedico historial;
+
         public Paciente(int id,string nombre, string email) : base(id, nombre, email) { }
 
         public void ReservarCita(CitaMedica cita)
