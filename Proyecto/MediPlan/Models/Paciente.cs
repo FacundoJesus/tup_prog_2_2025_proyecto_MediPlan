@@ -17,17 +17,18 @@ namespace MediPlan.Models
 
         }
 
-        public void CandelarCita(CitaMedica cita)
+        public void CancelarCita(CitaMedica cita)
         {
 
         }
 
         public List<CitaMedica> ListarCitas() {
+
         }
 
         public HistorialMedico GetHistorialMedico()
         {
-
+            return historial;
         }
     }
 }

@@ -1,0 +1,32 @@
+# Archivos temporales de Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Compilados
+bin/
+obj/
+Debug/
+Release/
+
+# Cache y backups
+*.cache
+*.log
+*.db
+*.bak
+
+# Configuración de IDE
+*.vscode/
+.idea/
+
+# Otros archivos generados
+*.pdb
+*.exe
+*.dll
+*.tmp
+*.dbmdl
+*.opendb
+*.vsidx
+*.dtbcache.v2

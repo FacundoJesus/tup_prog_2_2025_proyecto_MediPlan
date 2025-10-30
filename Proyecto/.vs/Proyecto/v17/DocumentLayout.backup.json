@@ -3,8 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Facundo\\source\\repos\\tup_prog_2_2025_proyecto_MediPlan\\Proyecto\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BF9D4459-B9B8-4A6D-A659-125E5AFFBA97}|MediPlan\\MediPlan.csproj|c:\\users\\facundo\\source\\repos\\tup_prog_2_2025_proyecto_mediplan\\proyecto\\mediplan\\docs\\mediplan.uml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{BF9D4459-B9B8-4A6D-A659-125E5AFFBA97}|MediPlan\\MediPlan.csproj|solutionrelative:mediplan\\docs\\mediplan.uml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{BF9D4459-B9B8-4A6D-A659-125E5AFFBA97}|MediPlan\\MediPlan.csproj|c:\\users\\facundo\\source\\repos\\tup_prog_2_2025_proyecto_mediplan\\proyecto\\mediplan\\models\\consultorprocesosmedicos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9D4459-B9B8-4A6D-A659-125E5AFFBA97}|MediPlan\\MediPlan.csproj|solutionrelative:mediplan\\models\\consultorprocesosmedicos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9D4459-B9B8-4A6D-A659-125E5AFFBA97}|MediPlan\\MediPlan.csproj|c:\\users\\facundo\\source\\repos\\tup_prog_2_2025_proyecto_mediplan\\proyecto\\mediplan\\models\\administrativo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9D4459-B9B8-4A6D-A659-125E5AFFBA97}|MediPlan\\MediPlan.csproj|solutionrelative:mediplan\\models\\administrativo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9D4459-B9B8-4A6D-A659-125E5AFFBA97}|MediPlan\\MediPlan.csproj|c:\\users\\facundo\\source\\repos\\tup_prog_2_2025_proyecto_mediplan\\proyecto\\mediplan\\models\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9D4459-B9B8-4A6D-A659-125E5AFFBA97}|MediPlan\\MediPlan.csproj|solutionrelative:mediplan\\models\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9D4459-B9B8-4A6D-A659-125E5AFFBA97}|MediPlan\\MediPlan.csproj|c:\\users\\facundo\\source\\repos\\tup_prog_2_2025_proyecto_mediplan\\proyecto\\mediplan\\models\\especialistaux.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9D4459-B9B8-4A6D-A659-125E5AFFBA97}|MediPlan\\MediPlan.csproj|solutionrelative:mediplan\\models\\especialistaux.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9D4459-B9B8-4A6D-A659-125E5AFFBA97}|MediPlan\\MediPlan.csproj|c:\\users\\facundo\\source\\repos\\tup_prog_2_2025_proyecto_mediplan\\proyecto\\mediplan\\models\\desarrolladorsoftware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9D4459-B9B8-4A6D-A659-125E5AFFBA97}|MediPlan\\MediPlan.csproj|solutionrelative:mediplan\\models\\desarrolladorsoftware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9D4459-B9B8-4A6D-A659-125E5AFFBA97}|MediPlan\\MediPlan.csproj|c:\\users\\facundo\\source\\repos\\tup_prog_2_2025_proyecto_mediplan\\proyecto\\mediplan\\models\\iusabilidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9D4459-B9B8-4A6D-A659-125E5AFFBA97}|MediPlan\\MediPlan.csproj|solutionrelative:mediplan\\models\\iusabilidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9D4459-B9B8-4A6D-A659-125E5AFFBA97}|MediPlan\\MediPlan.csproj|c:\\users\\facundo\\source\\repos\\tup_prog_2_2025_proyecto_mediplan\\proyecto\\mediplan\\models\\imantenible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9D4459-B9B8-4A6D-A659-125E5AFFBA97}|MediPlan\\MediPlan.csproj|solutionrelative:mediplan\\models\\imantenible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,14 +59,89 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MediPlan.uml",
-              "DocumentMoniker": "C:\\Users\\Facundo\\source\\repos\\tup_prog_2_2025_proyecto_MediPlan\\Proyecto\\MediPlan\\Docs\\MediPlan.uml",
-              "RelativeDocumentMoniker": "MediPlan\\Docs\\MediPlan.uml",
-              "ToolTip": "C:\\Users\\Facundo\\source\\repos\\tup_prog_2_2025_proyecto_MediPlan\\Proyecto\\MediPlan\\Docs\\MediPlan.uml",
-              "RelativeToolTip": "MediPlan\\Docs\\MediPlan.uml",
+              "Title": "ConsultorProcesosMedicos.cs",
+              "DocumentMoniker": "C:\\Users\\Facundo\\source\\repos\\tup_prog_2_2025_proyecto_MediPlan\\Proyecto\\MediPlan\\Models\\ConsultorProcesosMedicos.cs",
+              "RelativeDocumentMoniker": "MediPlan\\Models\\ConsultorProcesosMedicos.cs",
+              "ToolTip": "C:\\Users\\Facundo\\source\\repos\\tup_prog_2_2025_proyecto_MediPlan\\Proyecto\\MediPlan\\Models\\ConsultorProcesosMedicos.cs",
+              "RelativeToolTip": "MediPlan\\Models\\ConsultorProcesosMedicos.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T14:49:13.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Administrativo.cs",
+              "DocumentMoniker": "C:\\Users\\Facundo\\source\\repos\\tup_prog_2_2025_proyecto_MediPlan\\Proyecto\\MediPlan\\Models\\Administrativo.cs",
+              "RelativeDocumentMoniker": "MediPlan\\Models\\Administrativo.cs",
+              "ToolTip": "C:\\Users\\Facundo\\source\\repos\\tup_prog_2_2025_proyecto_MediPlan\\Proyecto\\MediPlan\\Models\\Administrativo.cs",
+              "RelativeToolTip": "MediPlan\\Models\\Administrativo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGlSURBVDhPrZK9axRRFMV/M4m44GYVUfwqRKOFWIl2FqYTC4u8V4h/hFhoIYYUNpYKNkJYwUKIkMyKEjSKoBgWwSSgksSJRVYTNcmibD7MDkvcOVazOG9XTOEPXnEP995z4D4PB2OMXK0VhULBQ2ruNcboXxhjlBi1uwsSrLWuRBAEqbpl2iSBm8StE813F/yJtbbxNsy1iye1dHcg5fI3WiY4dzxkOd/P\u002BqeFhrbhJPp2R3qCSsfOqNybVxzVpDhOOboJPC32iXoJ/FVYC\u002BHzCF8unSL\u002B0UFm31aqB/czODHJ2C6xnq03zIIgwFpLO1EEMzchsw1ye2HHAb7X2/hQzTA6IabGv1LZ3sHQ8A127s6Bc2IPQLO3xfRlaFtjfqGLC1dOMzZbwmcTZ8\u002BfYC4awvPTJ08SeImg14e1Mh/x4OlDwlKW4Vd9yK8x\u002BOYqh47uSQ0nNBaoVlZcPMKjx7eYnukmu6XG5MdRXowP0Nm1zObcL3c2jX6\u002B1cj1Ht3riRQWI71/XtX93oq6O/MqPptq/q4uq\u002BUlhcWoqfHdy4oW51aa9P/KbzXwQLiNAx/8AAAAAElFTkSuQmCC",
-              "WhenOpened": "2025-10-26T20:40:42.644Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T14:49:07.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EspecialistaUX.cs",
+              "DocumentMoniker": "C:\\Users\\Facundo\\source\\repos\\tup_prog_2_2025_proyecto_MediPlan\\Proyecto\\MediPlan\\Models\\EspecialistaUX.cs",
+              "RelativeDocumentMoniker": "MediPlan\\Models\\EspecialistaUX.cs",
+              "ToolTip": "C:\\Users\\Facundo\\source\\repos\\tup_prog_2_2025_proyecto_MediPlan\\Proyecto\\MediPlan\\Models\\EspecialistaUX.cs",
+              "RelativeToolTip": "MediPlan\\Models\\EspecialistaUX.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T12:59:45.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DesarrolladorSoftware.cs",
+              "DocumentMoniker": "C:\\Users\\Facundo\\source\\repos\\tup_prog_2_2025_proyecto_MediPlan\\Proyecto\\MediPlan\\Models\\DesarrolladorSoftware.cs",
+              "RelativeDocumentMoniker": "MediPlan\\Models\\DesarrolladorSoftware.cs",
+              "ToolTip": "C:\\Users\\Facundo\\source\\repos\\tup_prog_2_2025_proyecto_MediPlan\\Proyecto\\MediPlan\\Models\\DesarrolladorSoftware.cs",
+              "RelativeToolTip": "MediPlan\\Models\\DesarrolladorSoftware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T12:57:20.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUsabilidad.cs",
+              "DocumentMoniker": "C:\\Users\\Facundo\\source\\repos\\tup_prog_2_2025_proyecto_MediPlan\\Proyecto\\MediPlan\\Models\\IUsabilidad.cs",
+              "RelativeDocumentMoniker": "MediPlan\\Models\\IUsabilidad.cs",
+              "ToolTip": "C:\\Users\\Facundo\\source\\repos\\tup_prog_2_2025_proyecto_MediPlan\\Proyecto\\MediPlan\\Models\\IUsabilidad.cs",
+              "RelativeToolTip": "MediPlan\\Models\\IUsabilidad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T12:56:40.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IMantenible.cs",
+              "DocumentMoniker": "C:\\Users\\Facundo\\source\\repos\\tup_prog_2_2025_proyecto_MediPlan\\Proyecto\\MediPlan\\Models\\IMantenible.cs",
+              "RelativeDocumentMoniker": "MediPlan\\Models\\IMantenible.cs",
+              "ToolTip": "C:\\Users\\Facundo\\source\\repos\\tup_prog_2_2025_proyecto_MediPlan\\Proyecto\\MediPlan\\Models\\IMantenible.cs",
+              "RelativeToolTip": "MediPlan\\Models\\IMantenible.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T12:55:43.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Paciente.cs",
+              "DocumentMoniker": "C:\\Users\\Facundo\\source\\repos\\tup_prog_2_2025_proyecto_MediPlan\\Proyecto\\MediPlan\\Models\\Paciente.cs",
+              "RelativeDocumentMoniker": "MediPlan\\Models\\Paciente.cs",
+              "ToolTip": "C:\\Users\\Facundo\\source\\repos\\tup_prog_2_2025_proyecto_MediPlan\\Proyecto\\MediPlan\\Models\\Paciente.cs",
+              "RelativeToolTip": "MediPlan\\Models\\Paciente.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T12:49:08.222Z",
               "EditorCaption": ""
             }
           ]
